@@ -3,7 +3,7 @@
 ## Executive Summary
 This project focuses on identifying regional margin compression using advanced Tableau visualization techniques. My goal was to move beyond static reporting and create an interactive tool for stakeholders to isolate "loss-leader" products in real-time.
 
-## The Insights (The "So What?")
+## The Insights
 * **Regional Disparity:** While Sales are up 20.4% YoY, Profit only grew by 14.2%. 
 * **The Culprit:** The **South Region** operates at a 2% margin (vs. 12% average). 
 * **Specific Impact:** High-volume sales in **Tables** and **Machines** are actually eroding total profit in that region.
