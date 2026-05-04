@@ -18,3 +18,7 @@ Since this project was built directly within Tableau, I utilized the following n
 2. **Year-over-Year (YoY) Calculations:** Built custom calculated fields to track growth vs. Prior Year (PY) for Sales, Profit, and Quantity.
 3. **Dynamic Visual Encoding:** Implemented conditional color formatting (Orange/Blue) to immediately alert users to subcategories generating a net loss.
 4. **Interactivity:** Designed the dashboard with global filters and dashboard actions, allowing users to "drill down" from high-level KPIs to specific subcategory trends.
+
+## 🔗 Interactive Version
+To explore the interactive filters and drill-down features of this dashboard, visit the live version on Tableau Public:
+[**👉 View Live Dashboard on Tableau Public**]([PASTE_YOUR_LINK_HERE](https://public.tableau.com/app/profile/nataliia.bilousova/viz/SalesDashboardCaseStudy_17754461712580/SalesDashboard))
