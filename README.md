@@ -21,4 +21,4 @@ Since this project was built directly within Tableau, I utilized the following n
 
 ## 🔗 Interactive Version
 To explore the interactive filters and drill-down features of this dashboard, visit the live version on Tableau Public:
-[**👉 View Live Dashboard on Tableau Public**]([PASTE_YOUR_LINK_HERE](https://public.tableau.com/app/profile/nataliia.bilousova/viz/SalesDashboardCaseStudy_17754461712580/SalesDashboard))
+[**👉 View Live Dashboard on Tableau Public**](https://public.tableau.com/app/profile/nataliia.bilousova/viz/SalesDashboardCaseStudy_17754461712580/SalesDashboard)
